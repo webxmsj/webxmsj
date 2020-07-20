@@ -13,3 +13,4 @@ jobs:
       - uses: webxmsj/webxmsj@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+ 
