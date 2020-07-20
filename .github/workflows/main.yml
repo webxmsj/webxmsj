@@ -1,6 +1,9 @@
 name: webxmsj Readme
 
-on: push
+on:
+  schedule:
+    # Runs at 12am UTC
+    - cron: '0 0 * * *'
 
 jobs:
   update-readme:
