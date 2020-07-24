@@ -29,7 +29,7 @@ def this_week() -> str:
 def make_graph(percent: float) -> str:
     '''Make progress graph from API graph'''
     done_block = '●'
-    empty_block = '⚬'
+    empty_block = '○'
     pc_rnd = round(percent)
     return f"{done_block*int(pc_rnd/4)}{empty_block*int(25-int(pc_rnd/4))}"
 
