@@ -9,7 +9,8 @@
 
 <!--START_SECTION:waka-->
 ```text
-JavaScript  0 secs              ●●●●●●●●●●●●●●●●●●●●●●●○○   94.08 % 
-HTML        0 secs              ●○○○○○○○○○○○○○○○○○○○○○○○○   05.92 %
+JavaScript  2 mins              ●●●●●●●●●●●●●●●○○○○○○○○○○   60.19 % 
+Dart        1 min               ●●●●●●●●●●○○○○○○○○○○○○○○○   39.52 % 
+TypeScript  0 secs              ○○○○○○○○○○○○○○○○○○○○○○○○○   00.29 %
 ```
 <!--END_SECTION:waka-->
