@@ -9,10 +9,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-JavaScript  1 hr 12 mins        ●●●●●●●●●●●●○○○○○○○○○○○○○   50.72 % 
-HTML        42 mins             ●●●●●●●○○○○○○○○○○○○○○○○○○   29.29 % 
-JSON        10 mins             ●○○○○○○○○○○○○○○○○○○○○○○○○   07.03 % 
-TypeScript  9 mins              ●○○○○○○○○○○○○○○○○○○○○○○○○   06.58 % 
-Sublime Text Config9 mins              ●○○○○○○○○○○○○○○○○○○○○○○○○   06.37 %
+JavaScript  2 hrs 53 mins       ●●●●●●●●●●●●●●●●○○○○○○○○○   67.22 % 
+HTML        51 mins             ●●●●●○○○○○○○○○○○○○○○○○○○○   20.04 % 
+JSON        14 mins             ●○○○○○○○○○○○○○○○○○○○○○○○○   05.50 % 
+TypeScript  9 mins              ●○○○○○○○○○○○○○○○○○○○○○○○○   03.67 % 
+Sublime Text Config9 mins              ●○○○○○○○○○○○○○○○○○○○○○○○○   03.54 %
 ```
 <!--END_SECTION:waka-->
